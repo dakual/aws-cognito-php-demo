@@ -2,7 +2,6 @@
 namespace CognitoApp;
 
 use Aws\CognitoIdentityProvider\CognitoIdentityProviderClient;
-use Dotenv\Dotenv;
 
 class CognitoClient
 {
