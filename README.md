@@ -1,3 +1,5 @@
+## Amazon Cognito lets you easily add user sign-up and authentication to your mobile and web apps.
+
 ## AWS Cognito PHP Demo
 Sample .env file
 ```sh
